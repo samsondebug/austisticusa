@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.build/
+.dist/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage*
+htmlcov/
+
+# Environments
+.venv/
+venv/
+env/
+.python-version
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local app state
+.local/
+.cache/
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Node (if any)
+node_modules/
+
+# Misc
+*.swp
+*.swo
